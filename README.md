@@ -11,5 +11,6 @@ By using my code users can detect the online payments thief before he steals.
 # How users can get started with the project
 Users can simply feed my code a dataset similar to the newly used dataset and detect whether or not that user has committed payment theft.
 I used virtual environment for this, if you are using a mac terminal write the command "source bin/activate" and if you are a windows user write the command ".\venv\Scripts\activate".
+I used jupyter notebook
 
 
